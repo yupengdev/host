@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "sub.su",
+        "xiaoya.su",
+        "pve.su"
+      ]
+    }
+  ]
+}
