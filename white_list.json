@@ -6,7 +6,10 @@
         "sub.su",
         "xiaoya.su",
         "pve.su"
-      ]
+      ],
+      "source_ip_cidr": [
+          "192.168.0.109/24"
+        ]
     }
   ]
 }
