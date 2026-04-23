@@ -7,3 +7,6 @@ ff02::2 ip6-allrouters
 192.168.0.107 xiaoya.su
 192.168.0.107 sub.su
 192.168.0.164 dsm.su
+
+10.36.15.43 ai-test.weibo.com
+10.222.76.242 local-test.weibo.com
